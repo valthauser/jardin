@@ -44,7 +44,7 @@ Ce projet vise à automatiser le processus d'arrosage des plantes en utilisant d
 1. Clonez ce dépôt GitHub :
 
    ```bash
-   git clone https://github.com/votre-utilisateur/votre-repo.git
+   git clone https://github.com/valthauser/jardin.git
    cd votre-repo
    ```
 
